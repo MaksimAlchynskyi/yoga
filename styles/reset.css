@@ -17,3 +17,11 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
+h6 {
+	margin: 0;
+}
+
+p {
+	margin: 0;
+}
